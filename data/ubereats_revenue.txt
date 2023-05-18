@@ -1,0 +1,6 @@
+Year	Annual_Revenue	Website
+2017	0.6	UberEats
+2018	1.5	UberEats
+2019	1.9	UberEats
+2020	4.8	UberEats
+2021	8.3	UberEats
