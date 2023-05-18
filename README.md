@@ -47,10 +47,10 @@ Below is the Gantt chart, roles and responsibilities of the team for an overview
 
 |Serial No.|	Name	|Responsibility|
 |:---|:---:|:---:|
-1.|	Shreya Arora	| Build code for data extraction and scraping in the initial phase of the project.Understanding different models to be built. Validate the model results. Building the identified models. Reporting the model results.
-2.| Mayank Talreja	| Created code for data transformation according to the requirements. Supervised in reviewing code and supporting documents. Understanding different models to be built. Building the identified models.Reporting the model results.
-3.|	Nitiraj Shitole	| Created code to access the data from several websites. Responsible for delegating tasks and scheduling stand-ups and meetings.  Understanding different models to be built. Building the identified models. Selecting the best model by comparing models.
-4.|	Shivanjali Singh	| Responsible for data cleaning and ensuring data integrity across all columns and removing irrelevant data records. Created and maintained documentation of project for better understanding of data. Worked on creating visualizations based on the analysis. Understanding different models to be built. Selecting the best model by comparing models.
+1.|	Shreya Arora	| Build code for data extraction and scraping in the initial phase of the project.Understanding different models to be built. Building the identified models. Reporting the model results.
+2.| Mayank Talreja	| Created code for data transformation according to the requirements. Supervised in reviewing code and supporting documents. Understanding different models to be built. Building the identified models.Reporting the model results. Validate the model results.
+3.|	Nitiraj Shitole	| Created code to access the data from several websites. Responsible for scheduling stand-ups and meetings. Selecting the best model by comparing models.
+4.|	Shivanjali Singh	| Responsible for data cleaning and ensuring data integrity across all columns and removing irrelevant data records. Created and maintained documentation of project for better understanding of data. Worked on creating visualizations based on the analysis. Selecting the best model by comparing models.
 
 
 ![Gannt Chart](assets/gantt_chart1.png)
